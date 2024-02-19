@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #d1d1d1;
+$mainTransition: all 0.1s linear;
+
+body {
+    font-family: "Open Sans", sans-serif;
+    color: $mainBlack ;
+}
